@@ -17,7 +17,7 @@
     "react-scripts": "^3.3.0",
     "redux": "^4.0.5",
     "scrollreveal": "^4.0.5",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "tone": "^13.8.25"
   },
   "scripts": {
